@@ -1,6 +1,5 @@
 
-
-                                             PYTHON LANGUAGE MANUAL
+<<<>>>                                             PYTHON LANGUAGE MANUAL
 Total Python written by user.
 Python Version used is 3.10.7
 Python Compiler used is Pep 8.
